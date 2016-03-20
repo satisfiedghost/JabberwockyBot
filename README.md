@@ -3,7 +3,7 @@ A bot for the Telegram messenger.
 
 Rename "jabberwocky.cfg.example" to "jabberwocky.cfg"
 
-You will need to get a key from Telegram's BotFather and insert it in the Token field.
+You will need to get a key from Telegram's BotFather and insert it in the Token field in "jabberwocky.cfg"
 
 
 ## Dependencies
